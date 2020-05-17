@@ -3,5 +3,6 @@ Track your visits with larger groups of people. In case of a covid-19 infection,
 
 This is my first code project for iPhone - so please have mercy on me. Feel free to contribute in any way to this project.
 
+
 Thanks
 Florian
